@@ -411,7 +411,9 @@ li{
     .form__link{
         font-weight: 600;
         font-size: 15px;
-        line-height: 1.33333;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         text-align: center;
         color: #043e44;
         border-radius: 5px;
